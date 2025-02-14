@@ -6,7 +6,7 @@ import os
 
 pickaxe = ""
 
-print("Bu program @Flix tarafindan geliştirilmiştir, iyi kullanimlar.\nÇikmak için 'O'-'o' tuşuna basa bilirsiniz.")
+print("Bu program @SilverTeam tarafindan geliştirilmiştir, iyi kullanimlar.\nÇikmak için 'O'-'o' tuşuna basa bilirsiniz.")
 screen_width, screen_height = pyautogui.size()
 center_x = screen_width // 2
 center_y = screen_height // 2
