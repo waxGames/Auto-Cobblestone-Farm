@@ -1,0 +1,80 @@
+{
+    "en": [
+        {
+            "type": ["wooden", "wood", "plank"],
+            "time": 4.6
+        },
+        {
+            "type": ["stone", "rock", "cobblestone"],
+            "time": 2.26
+        },
+        {
+            "type": ["iron"],
+            "time": 1.6
+        },
+        {
+            "type": ["gold", "golden"],
+            "time": 0.76
+        },
+        {
+            "type": ["diamond", "gem"],
+            "time": 1.3
+        },
+        {
+            "type": ["netherite"],
+            "time": 1.06
+        }
+    ],
+    "tr": [
+        {
+            "type": ["odun", "tahta"],
+            "time": 4.6
+        },
+        {
+            "type": ["taş", "kaya", "tas"],
+            "time": 2.26
+        },
+        {
+            "type": ["demir"],
+            "time": 1.6
+        },
+        {
+            "type": ["altın", "altin"],
+            "time": 0.76
+        },
+        {
+            "type": ["elmas", "mücevher"],
+            "time": 1.3
+        },
+        {
+            "type": ["netherite", "antik kalıntı", "antik_kalıntı"],
+            "time": 1.06
+        }
+    ],
+    "ru": [
+        {
+            "type": ["деревянный", "дерево", "доска"],
+            "time": 4.6
+        },
+        {
+            "type": ["камень", "скала", "булыжник"],
+            "time": 2.26
+        },
+        {
+            "type": ["железо"],
+            "time": 1.6
+        },
+        {
+            "type": ["золотой", "золотой"],
+            "time": 0.76
+        },
+        {
+            "type": ["бриллиант", "драгоценный камень"],
+            "time": 1.3
+        },
+        {
+            "type": ["незерит"],
+            "time": 1.06
+        }
+    ]
+}
